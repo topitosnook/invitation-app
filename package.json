@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://topitosnook.github.io/invitation-app/",
   "dependencies": {
+    "core-js": "^3.39.0",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -36,5 +37,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.15",
+    "webpack": "^5.97.1"
   }
 }
