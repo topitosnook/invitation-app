@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/invitation-app/static/css/main.e607c249.css",
-    "main.js": "/invitation-app/static/js/main.47a4086a.js",
+    "main.css": "/invitation-app/static/css/main.c4f6ad00.css",
+    "main.js": "/invitation-app/static/js/main.9d27e4cb.js",
     "static/js/488.9c92ff38.chunk.js": "/invitation-app/static/js/488.9c92ff38.chunk.js",
+    "static/media/casa.png": "/invitation-app/static/media/casa.e74656ee94b44ca02ce1.png",
     "static/media/2.png": "/invitation-app/static/media/2.9c171032151da1e7106c.png",
     "static/media/1.png": "/invitation-app/static/media/1.1306a501fb0f1b6125e9.png",
     "static/media/sprite.svg": "/invitation-app/static/media/sprite.3a948cdecf439a8b4fe522a7d7ef8ad7.svg",
     "index.html": "/invitation-app/index.html",
-    "main.e607c249.css.map": "/invitation-app/static/css/main.e607c249.css.map",
-    "main.47a4086a.js.map": "/invitation-app/static/js/main.47a4086a.js.map",
+    "main.c4f6ad00.css.map": "/invitation-app/static/css/main.c4f6ad00.css.map",
+    "main.9d27e4cb.js.map": "/invitation-app/static/js/main.9d27e4cb.js.map",
     "488.9c92ff38.chunk.js.map": "/invitation-app/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e607c249.css",
-    "static/js/main.47a4086a.js"
+    "static/css/main.c4f6ad00.css",
+    "static/js/main.9d27e4cb.js"
   ]
 }
