@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/invitation-app/static/css/main.e607c249.css",
-    "main.js": "/invitation-app/static/js/main.bfcad656.js",
+    "main.js": "/invitation-app/static/js/main.30ecc5a9.js",
     "static/js/488.9c92ff38.chunk.js": "/invitation-app/static/js/488.9c92ff38.chunk.js",
     "static/media/2.png": "/invitation-app/static/media/2.9c171032151da1e7106c.png",
     "static/media/1.png": "/invitation-app/static/media/1.1306a501fb0f1b6125e9.png",
     "static/media/sprite.svg": "/invitation-app/static/media/sprite.3a948cdecf439a8b4fe522a7d7ef8ad7.svg",
     "index.html": "/invitation-app/index.html",
     "main.e607c249.css.map": "/invitation-app/static/css/main.e607c249.css.map",
-    "main.bfcad656.js.map": "/invitation-app/static/js/main.bfcad656.js.map",
+    "main.30ecc5a9.js.map": "/invitation-app/static/js/main.30ecc5a9.js.map",
     "488.9c92ff38.chunk.js.map": "/invitation-app/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e607c249.css",
-    "static/js/main.bfcad656.js"
+    "static/js/main.30ecc5a9.js"
   ]
 }
