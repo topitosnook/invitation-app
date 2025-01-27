@@ -2,7 +2,7 @@ import React from "react";
 
 const WhatsAppButton = () => {
   const phoneNumber = "56995242695"; 
-  const message = "RSVP"; 
+  const message = "Kongfirmo"; 
 
   // Encode the message to handle spaces and special characters
   const encodedMessage = encodeURIComponent(message);
@@ -30,7 +30,7 @@ const WhatsAppButton = () => {
         alt="WhatsApp"
         style={{ width: "20px", marginRight: "10px" }}
       />
-      RSVP via WhatsApp
+      Kongfirmo via WhatsApp
     </a>
   );
 };
